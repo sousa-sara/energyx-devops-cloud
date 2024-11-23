@@ -42,7 +42,7 @@ Este projeto tem como objetivo desenvolver a parte backend da nossa solução pa
 *Swagger: é uma ferramenta que facilita a documentação e o teste de APIs RESTful. Ele é amplamente utilizado para criar uma interface interativa e amigável onde os desenvolvedores e usuários podem testar os endpoints da API diretamente no navegador, sem a necessidade de escrever código de cliente ou usar ferramentas externas.
 
 ### Arquitetura do Projeto
-![Arquitetura](images-readme/arquitetura.jpeg)
+![Arquitetura](images-readme/Arquitetura.svg)
 
 ### Descrição das Principais Ferramentas
 
